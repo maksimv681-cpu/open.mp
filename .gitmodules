@@ -25,3 +25,6 @@
 [submodule "CAPI"]
 	path = CAPI
 	url = https://github.com/openmultiplayer/open.mp-capi
+[submodule "RakNet"]
+	path = RakNet
+	url = https://github.com/maksimv681-cpu/br123.git
